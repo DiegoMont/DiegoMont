@@ -1,7 +1,7 @@
 ### Hello, I'm Diego 👋
 I'm passionate about learning new skills and technologies. I also enjoy helping people from my community. That's why I dream of creating technological solutions that can help others whilst I have fun developing them:keyboard:.
 
-##### I'm a sixth semester Computer Science student at Tecnológico de Monterrey:
+##### I'm a sixth semester Computer Science student at Tecnológico de Monterrey:ram::
 - Object-Oriented Programming
 - Functional Programming
 - Advanced Database Systems
@@ -10,7 +10,7 @@ I'm passionate about learning new skills and technologies. I also enjoy helping 
 - Interactive Design Fundamentals
 - Mobile Application Development
 
-> "Because small things matter"
+> "Because small things matter" :raised_hands:
 
 #### Languages :man_technologist::
 :coffee:Java, :elephant:PHP, **JS** Javascript, :dolphin:MySQL, :bird:Swift, *C* C++, :snake:Python
