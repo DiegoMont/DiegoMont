@@ -1,7 +1,7 @@
 ### Hello, I'm Diego 👋
 I'm passionate about learning new skills and technologies. I also enjoy helping people from my community. That's why I dream of creating technological solutions that can help others whilst I have fun developing them:keyboard:.
 
-##### I'm a sixth semester Computer Science student at Tecnológico de Monterrey:ram::
+##### I'm a seventh semester Computer Science student at Tecnológico de Monterrey:ram::
 - Object-Oriented Programming
 - Functional Programming
 - Advanced Database Systems
