@@ -15,7 +15,7 @@ I'm passionate about learning new skills and technologies. I also enjoy helping 
 > "Because small things matter" :raised_hands:
 
 #### Languages :man_technologist::
-:coffee:Java, :snake:Python, *C* C++,:elephant:PHP, **JS** Javascript, :dolphin:MySQL, :bird:Swift
+:coffee:Java, :snake:Python, *C* / C++,:elephant:PHP, **JS** Javascript, :dolphin:MySQL, :bird:Swift
 
 #### Tools and Technologies :wrench::
 :octocat:GitHub, :whaleDocker, `</>`HTML, :fountain_pen:CSS, :fire:Firebase, :otterMariaDB, :green_circleNode.js, :atom_symbolReact
