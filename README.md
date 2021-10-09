@@ -6,6 +6,8 @@ I'm passionate about learning new skills and technologies. I also enjoy helping 
 - Functional Programming
 - Advanced Database Systems
 - Network Interconnection
+- Operating Systems
+- Data Science
 - Software Quality and Testing
 - Interactive Design Fundamentals
 - Mobile Application Development
@@ -13,14 +15,14 @@ I'm passionate about learning new skills and technologies. I also enjoy helping 
 > "Because small things matter" :raised_hands:
 
 #### Languages :man_technologist::
-:coffee:Java, :elephant:PHP, **JS** Javascript, :dolphin:MySQL, :bird:Swift, *C* C++, :snake:Python
+:coffee:Java, :snake:Python, *C* C++,:elephant:PHP, **JS** Javascript, :dolphin:MySQL, :bird:Swift
 
 #### Tools and Technologies :wrench::
-:octocat:GitHub, `</>`HTML, :fountain_pen:CSS, :fire:Firebase
+:octocat:GitHub, :whaleDocker, `</>`HTML, :fountain_pen:CSS, :fire:Firebase, :otterMariaDB, :green_circleNode.js, :atom_symbolReact
 
 #### I'm Currently Learning :owl::
+- Web scrapping
 - UI / UX
-- Node.js
 
 #### Connect with me :earth_americas::
 - :email: diegomonmar@hotmail.com
