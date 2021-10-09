@@ -18,7 +18,7 @@ I'm passionate about learning new skills and technologies. I also enjoy helping 
 :coffee:Java, :snake:Python, *C* / C++,:elephant:PHP, **JS** Javascript, :dolphin:MySQL, :bird:Swift
 
 #### Tools and Technologies :wrench::
-:octocat:GitHub, :whaleDocker, `</>`HTML, :fountain_pen:CSS, :fire:Firebase, :otterMariaDB, :green_circleNode.js, :atom_symbolReact
+:octocat:GitHub, :whale:Docker, `</>`HTML, :fountain_pen:CSS, :fire:Firebase, :otter:MariaDB, :green_circle:Node.js, :atom_symbol:React
 
 #### I'm Currently Learning :owl::
 - Web scrapping
