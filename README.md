@@ -1,5 +1,5 @@
 ### Hello, I'm Diego 👋
-I'm passionate about learning new skills and technologies. I also enjoy helping people from my community. That's why I dream of creating technological solutions that can help others whilst I have fun developing them:computer:.
+I'm passionate about learning new skills and technologies. I also enjoy helping people from my community. That's why I dream of creating technological solutions that can help others whilst I have fun developing them :computer:.
 
 > "Because small things matter" :raised_hands:
 
